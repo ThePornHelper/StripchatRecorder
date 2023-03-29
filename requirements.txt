@@ -1,0 +1,4 @@
+# This file will install all the prerequisites for this script
+# To run this type in the command 'pip3 install -r requirements.txt'
+requests
+streamlink
